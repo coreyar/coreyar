@@ -1,10 +1,10 @@
 ### Hi / Përshëndetje / Hola 👋
 
-My name is Corey and I run engineering at @clearsummit, a distributed software agency. I'm passionate about remote work, creating a more equitable society, and global mobility.
+My name is Corey and I run engineering at [@clearsummit](https://github.com/clearsummit), a distributed software agency. I'm passionate about remote work, creating a more equitable society, and global mobility.
 
 ### Currently Collaborations 👯
 
-[Immigrant Power of Attorney](https://github.com/code-for-nashville/power-of-attorney) w/ @codefornashville
+[Immigrant Power of Attorney](https://github.com/code-for-nashville/power-of-attorney) w/ [@code-for-nashville](https://github.com/code-for-nashville)
 
 [Penny University](https://github.com/penny-university/penny_university)
 

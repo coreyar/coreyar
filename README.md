@@ -1,8 +1,8 @@
 ### Hi / Përshëndetje / Hola 👋
 
-My name is Corey. I'm an experienced full stack developer. Most recently I ran the engineering team at [@clearsummit](https://github.com/clearsummit), where we built a range of applications using Django, React and React Native. 
+My name is Corey. I'm an experienced full stack developer.
 
-Currently I work as Senior Full Stack Engineer at [@venusprotocol](https://github.com/venusprotocol) where I work on everything from the frontend, subgraphs, infrastucture, and smart contracts.
+Currently I work as Senior Full Stack Engineer at [@venusprotocol](https://github.com/venusprotocol) where I work on everything from the frontend, subgraphs, infrastucture, and smart contracts. Previously I ran the engineering team at [@clearsummit](https://github.com/clearsummit), where we built a range of applications using Django, React and React Native. 
 
 I enjoy collaborating and hacking on side projects. Lately I've been digging deeper into web3 governance, wallets, and tooling.
 
